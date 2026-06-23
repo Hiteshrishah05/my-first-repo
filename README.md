@@ -13,7 +13,7 @@ A practical tool to input scores, calculate grade point averages, and simulate p
 # 3. Rock Paper Scissors Game (`rockpaper_scissor.py`)
 The classic hand game played against a randomized computer opponent with live score tracking.
 
-#4.To-Do List (`to_do_list.py`)
+# 4.To-Do List (`to_do_list.py`)
 A handy terminal application to add, view, track, and delete your daily tasks efficiently.
 
 # Make sure you have python installed 
